@@ -1,6 +1,7 @@
 ## Lưu ý:
 - App test trên BDM3P đã nạp firmware NVM-Audio
 - Để nạp firmware NVM-Audio, các bạn tải NVM.audio-fw-only.rar về và làm theo hình hướng dẫn bên trong.
+- Điện thoại phải bật chế độ USB debug trong Nhà phát triển.
 
 ## Tuyên bố từ chối trách nhiệm
 Ứng dụng được cung cấp trên cơ sở "có sẵn" và "như hiện có". Tác giả không đảm bảo ứng dụng sẽ không có lỗi hoặc luôn hoạt động liên tục. Việc bạn cài đặt firmware hoặc/và sử dụng BDM3P Control là tự nguyện. Tác giả không chịu trách nhiệm cho bất kỳ tổn thất dữ liệu, hư hỏng thiết bị hoặc bất kỳ thiệt hại trực tiếp/gián tiếp nào phát sinh từ việc sử dụng ứng dụng.
