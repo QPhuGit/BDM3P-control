@@ -13,5 +13,5 @@
 ## Góp ý xin gửi về
 ***** [![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Phu_Digi)  [![Messenger](https://img.shields.io/badge/-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/QuocPhu47) *****
 
-## v0.2.3
-[Download apk](https://github.com/QPhuGit/BDM3P-control/releases/download/v0.2.3/BDM3P-v0.2.3.apk)
+## v0.2.4
+[Download apk](https://github.com/QPhuGit/BDM3P-control/releases/download/v0.2.4/BDM3P-v0.2.4.apk)
